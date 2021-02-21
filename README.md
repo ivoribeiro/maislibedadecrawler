@@ -1,2 +1,3 @@
 # maislibedadecrawler
-Get +Liberdade Books
+Get +Liberdade library hosted books
+Credits to https://maisliberdade.pt
