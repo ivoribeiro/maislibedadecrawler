@@ -1,13 +1,14 @@
 {
   "name": "maislib",
   "version": "1.0.0",
-  "description": "",
+  "description": "+Liberdade Library Download",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Ivo Ribeiro",
+  "bin": "index.js",
+  "license": "APACHEV2",
   "dependencies": {
     "node-downloader-helper": "^1.0.17",
     "puppeteer": "^7.1.0"
